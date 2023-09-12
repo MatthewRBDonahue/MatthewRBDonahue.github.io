@@ -1,5 +1,3 @@
-<title> Matthew R. Donahue <title>
-  
 ![Image of Matthew Donahue](images/headshot.jpg "Matthew with a goat")
 
 ## About Me
