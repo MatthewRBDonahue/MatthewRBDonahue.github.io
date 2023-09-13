@@ -1,0 +1,4 @@
+---
+title: HomePage
+layout: default
+---
