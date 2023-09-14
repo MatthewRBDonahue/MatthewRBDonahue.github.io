@@ -1,5 +1,6 @@
 ---
-title: HomePage
+layout: page
+title: Home Page
 layout: default
 ---
 
